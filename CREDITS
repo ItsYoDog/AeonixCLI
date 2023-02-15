@@ -1,0 +1,14 @@
+Credits
+=======
+
+This operating system includes code written by:
+
+- Codexahedron (https://github.com/Codexahedron)
+
+  The original base code for this operating system was written by Codexahedron. Several modules, including the multiboot and keyboard modules, were adapted from the code provided by Codexahedron.
+
+- PixelWare Studuos
+
+  A large portion of this operating system was written by PixelWare Studios. They have customized, extended, and built upon the original code to create a unique operating system.
+
+Thank you to Codexahedron and PixelWare Studios for sharing their code and making this project possible!
