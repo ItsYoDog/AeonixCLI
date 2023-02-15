@@ -7,6 +7,10 @@ This operating system includes code written by:
 
   The original base code for this operating system was written by Codexahedron. Several modules, including the multiboot and keyboard modules, were adapted from the code provided by Codexahedron.
 
+- Erich Boleyn 
+
+	The base code and license for the GNU GRUB bootloader. Several modules including (partially) the keyboard, screen and module core modules, were made by the GNU Project.
+
 - PixelWare Studuos
 
   A large portion of this operating system was written by PixelWare Studios. They have customized, extended, and built upon the original code to create a unique operating system.
