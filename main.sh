@@ -23,7 +23,7 @@ mkdir iso/boot/grub
 mv os.bin iso/boot/os.bin
 echo 'set timeout-0' >> iso/boot/grub/grub.cfg
 echo 'set default-0' >> iso/boot/grub/grub.cfg
-echo 'menuentry "abrid" {' >> iso/boot/grub/grub.cfg
+echo 'menuentry "Aeonix.CLI" {' >> iso/boot/grub/grub.cfg
 echo '  multiboot /boot/os.bin' >> iso/boot/grub/grub.cfg
 echo '  module  /boot/os.initrd' >> iso/boot/grub/grub.cfg
 echo '  boot' >> iso/boot/grub/grub.cfg
